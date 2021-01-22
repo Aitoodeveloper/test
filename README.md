@@ -1,1 +1,1 @@
-## my fristapplication on Github
+## my frist application on Github
